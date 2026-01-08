@@ -1,48 +1,35 @@
-# Backend Developer in Japan👋
-### Just 20 years old 
-### Feel free to contact me anytime!👍
-#
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
+# Yugi Tech Lab（ゆうぎ てっく らぼ）🔧✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foo_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+こんにちは！電子工作・マイコン・GUI制作などを中心に活動しています。  
+「遊んで学んでMakerになろう！」を合言葉に、ワークショップや展示もやっています。
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
+## できること / やっていること
+- ブレッドボード周りの作品・計測・可視化（GUI）
+- Arduino / ESP32 / M5Stack などのマイコン工作
+- 子ども向け・初心者向けの工作ワークショップ企画
+- ゲームっぽいデモ・体験型コンテンツ制作
 
+---
 
-# NOW TRAINING
+## 注目プロジェクト
+- 🧩 **Breadboard Monitoring System**：ブレッドボードの状態を見える化する仕組み
+- 💡 **LEDリング系の体験デモ**：光り方を作って遊べる/学べる
+- 🎮 **工作×ゲーム**：小さいデバイスで遊べるミニゲーム
 
-<p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
-</p>
+---
 
+## イベント・展示
+- 🏮 **Maker Faire Tokyo** などに出展予定 / 出展記録まとめ中
 
+---
 
-# My Skill (Programming Languages, Frameworks and Tools)
+## 連絡・リンク
+- 🌐 Web（準備中）
+- 🧵 SNS（準備中）
+- 🛠️ Repos：下のPinned（ピン留め）から見てね
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
+---
 
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
-  
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
-
-
-<!-- --------------------------------- :) ---------------------------------- -->
-
-<br><br><br>
-
-<div align="center">
-    <h1>
-        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-    </h1>
-  </div>
-<br><br><br>
+> 初心者歓迎！質問・コラボもお気軽にどうぞ 🙌
