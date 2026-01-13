@@ -1,14 +1,14 @@
 # Yugi Tech Lab（ユギ・テックラボ）🔧✨
 
-こんにちは！電子工作・マイコン・便利ツール製作などを中心に活動しています。  
-「遊んで学んでMakerになろう！」を合言葉に、ワークショップや展示もやっています。
+今年も電子工作の季節がやってきましたね！  
+遊んで学んでMakerになろう！  
 ---
-
 ## 活動内容
--Maker Fairや、つくろXX等、工作展示イベントへの出展
--作品コンテストへのチャレンジ
--子ども向け・初心者向けの工作ワークショップ企画
--ショップでのキット販売(予定)
+- Maker Fairや、つくろXX等、工作展示イベントへの出展
+- 作品コンテストへのチャレンジ
+- 子ども向け・初心者向けの工作ワークショップ企画
+- ショップでのキット販売(予定)
+- Youtubeでの発信(これから頑張る)
 ---
 
 ## 主な作品
@@ -35,7 +35,7 @@
 ## 連絡・リンク
 - ProtoPedia:https://protopedia.net/prototyper/yugi_tech_lab
 - X：https://x.com/yugitechlab
-- Youtube:
+- Youtube:https://www.youtube.com/@YugiTechLab
 - Repos：下のPinned（ピン留め）から見てね
 
 ---
