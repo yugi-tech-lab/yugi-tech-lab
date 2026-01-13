@@ -33,11 +33,12 @@
 ---
 
 ## 連絡・リンク
-- ProtoPedia:https://protopedia.net/prototyper/yugi_tech_lab
+- Mail:yugi.tech.lab@gmail.com
 - X：https://x.com/yugitechlab
+- ProtoPedia:https://protopedia.net/prototyper/yugi_tech_lab
 - Youtube:https://www.youtube.com/@YugiTechLab
 - Repos：下のPinned（ピン留め）から見てね
 
 ---
 
-> 初心者歓迎！質問・コラボもお気軽にどうぞ 🙌
+> 初心者歓迎！質問・ご依頼等お気軽にどうぞ 🙌
