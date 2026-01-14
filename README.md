@@ -26,6 +26,7 @@
 ### 2025
 - 🏮 **つくろがや3**
 - 🏆 **ProtoPedia Award 2025〜ぼくのかんがえたさいきょうの〇〇〜：ProtoPedia賞**
+- 🏆 **M5Stack Global Innovation Contest 2025：3rd Prize**
 - 🏮 **Maker Faire Tokyo 2025**
 ### 2026
 - 🏮 **Kariya Micro Maker Faire 2026**
